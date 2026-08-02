@@ -1,4 +1,4 @@
-# Heart Disease Prediction ML
+# Disease Prediction from Medical data Using Machine Learning 
 
 ## Overview
 This is a Machine Learning project that predicts whether a person has heart disease using a Random Forest Classifier.
