@@ -1,7 +1,7 @@
 # Disease Prediction from Medical data Using Machine Learning 
 
 ## Overview
-This is a Machine Learning project that predicts whether a person has heart disease using a Random Forest Classifier.
+This is a Machine Learning Project that Predicts diseases from medical data.This implementation demonstrates heart disease prediction using a Random Forest Classifier
 
 ## Technologies Used
 - Python
